@@ -15,13 +15,8 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-/**
- * SettingsActivity - Settings Screen
- * Allows user to configure game settings:
- * - Number of rows (5-10)
- * - Number of columns (5-10)
- * - Percentage of mines (10%, 15%, 20%)
- * - Colors for different cell types (5 options each)
+/*
+    Settings Screen
  */
 public class SettingsActivity extends AppCompatActivity {
 
@@ -126,7 +121,7 @@ public class SettingsActivity extends AppCompatActivity {
                 }
             }
             
-            // Create radio button - make it look like a color swatch
+            // Create radio button to make it look like a color swatch
             RadioButton radioButton = new RadioButton(this);
             radioButton.setId(radioButtonId);
             radioButton.setButtonDrawable(android.R.color.transparent);

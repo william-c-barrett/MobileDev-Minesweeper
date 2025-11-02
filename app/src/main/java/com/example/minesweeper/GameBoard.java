@@ -4,12 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * GameBoard - Contains the game logic for Minesweeper
- * Handles mine generation, cell revealing, flagging, and win/lose conditions
- * 
- * Reference: This implementation is based on the classic Minesweeper game logic.
- * For reference, see: https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+/*
+ game logic for Minesweeper
  */
 public class GameBoard {
 

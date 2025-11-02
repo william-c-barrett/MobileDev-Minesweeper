@@ -16,9 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /*
- * ame Screen
- * Displays the game board and handles user interactions
- * Cells can be tapped to reveal or long-tapped to flag/unflag
+    board screen, allows for a single click to reveal a cell or a long click to mark with a flag:
  */
 public class GameActivity extends AppCompatActivity {
 
@@ -198,7 +196,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        // Long press listener - flag/unflag cell
+        // Long press listener for flag
         container.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View v) {

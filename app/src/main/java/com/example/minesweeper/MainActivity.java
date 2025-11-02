@@ -6,9 +6,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-/**
- * MainActivity - Title/Instructions Screen
- * Displays the app title, logo, and instructions for playing Minesweeper
+/*
+ app title, logo, and instructions for playing Minesweeper
  */
 public class MainActivity extends AppCompatActivity {
 
