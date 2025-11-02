@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App theme colors -->
+    <color name="app_background">#FFEBE1D9</color>
+    <color name="title_color">#FF6FAECB</color>
+    <color name="button_color">#FFB6C1</color>
+    <color name="button_color_pressed">#FFA0B0</color>
+    
+    <!-- Color options for game cells -->
+    <color name="covered_color_1">#FF4A90E2</color>
+    <color name="covered_color_2">#FF7B68EE</color>
+    <color name="covered_color_3">#FF20B2AA</color>
+    <color name="covered_color_4">#FFFF6B6B</color>
+    <color name="covered_color_5">#FFFFA500</color>
+    
+    <color name="uncovered_color_1">#FFF5F5DC</color>
+    <color name="uncovered_color_2">#FFFFE4E1</color>
+    <color name="uncovered_color_3">#FFE0E0E0</color>
+    <color name="uncovered_color_4">#FFFFFACD</color>
+    <color name="uncovered_color_5">#FFE6E6FA</color>
+    
+    <color name="suspected_color_1">#FFFFD700</color>
+    <color name="suspected_color_2">#FFFFA500</color>
+    <color name="suspected_color_3">#FFFF6347</color>
+    <color name="suspected_color_4">#FFFF1493</color>
+    <color name="suspected_color_5">#FFDC143C</color>
+    
+    <color name="mine_color_1">#FFFF0000</color>
+    <color name="mine_color_2">#FF8B0000</color>
+    <color name="mine_color_3">#FFFF1493</color>
+    <color name="mine_color_4">#FFDC143C</color>
+    <color name="mine_color_5">#FFB22222</color>
+</resources>
+

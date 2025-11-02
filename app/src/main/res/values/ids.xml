@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color selection IDs -->
+    <item name="coveredColor1" type="id" />
+    <item name="coveredColor2" type="id" />
+    <item name="coveredColor3" type="id" />
+    <item name="coveredColor4" type="id" />
+    <item name="coveredColor5" type="id" />
+    
+    <item name="uncoveredColor1" type="id" />
+    <item name="uncoveredColor2" type="id" />
+    <item name="uncoveredColor3" type="id" />
+    <item name="uncoveredColor4" type="id" />
+    <item name="uncoveredColor5" type="id" />
+    
+    <item name="suspectedColor1" type="id" />
+    <item name="suspectedColor2" type="id" />
+    <item name="suspectedColor3" type="id" />
+    <item name="suspectedColor4" type="id" />
+    <item name="suspectedColor5" type="id" />
+    
+    <item name="mineColor1" type="id" />
+    <item name="mineColor2" type="id" />
+    <item name="mineColor3" type="id" />
+    <item name="mineColor4" type="id" />
+    <item name="mineColor5" type="id" />
+</resources>
+

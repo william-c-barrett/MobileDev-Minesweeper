@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M54,54 m-54,0 a54,54 0,1 1,108 0 a54,54 0,1 1,-108 0"/>
+    <!-- Inner grid -->
+    <path
+        android:strokeColor="#333333"
+        android:strokeWidth="2"
+        android:pathData="M18,36 L90,36 M18,72 L90,72 M36,18 L36,90 M72,18 L72,90"/>
+    <!-- Mine symbol -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M54,54 m-12,0 a12,12 0,1 1,24 0 a12,12 0,1 1,-24 0"/>
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,42 L54,48 M54,60 L54,66 M42,54 L48,54 M60,54 L66,54 M45,45 L50,50 M63,45 L58,50 M45,63 L50,58 M63,63 L58,58"/>
+</vector>
+
